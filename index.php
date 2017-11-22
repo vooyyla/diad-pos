@@ -14,7 +14,7 @@
          <!-- Bootstrap CSS CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <!-- Our Custom CSS -->
-        <link rel="stylesheet" href="inxludes/css/index.css">
+        <link rel="stylesheet" href="includes/css/index.css">
     </head>
     <body>
 
